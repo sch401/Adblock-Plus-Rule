@@ -1,0 +1,20 @@
+! 2021-08-15 https://kns.cnki.net
+kns.cnki.net##.hello-t
+kns.cnki.net##.hello-p
+||kns.cnki.net/kxreader/Scripts/theme/default/hello.png$image
+kns.cnki.net##.btn-blue.btn
+kns.cnki.net###displayId
+kns.cnki.net##.hello-tr
+
+! 2021-10-16 https://www.letpub.com.cn
+www.letpub.com.cn##[src="images/budget_index_201712.jpg"]
+www.letpub.com.cn##.layui-layer-content
+www.letpub.com.cn##.layui-layer-close2.layui-layer-close.layui-layer-ico
+
+! 2021-11-08 https://www.science.org
+www.science.org##.alert-donation--visible.bg-white.alert-donation
+
+! 2021-11-11 https://www.dictionary.com
+www.dictionary.com###quizzes
+www.dictionary.com##.e5gjibv5.css-1fm4axs
+
